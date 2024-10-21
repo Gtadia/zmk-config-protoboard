@@ -1,0 +1,6 @@
+if SHIELD_PROTOBOARD
+
+config ZMK_KEYBOARD_NAME
+  default "ProtoBoard"
+
+endif
